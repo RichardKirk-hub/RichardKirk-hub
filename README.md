@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, world 🌍
 
-<!--
-**RichardKirk-hub/RichardKirk-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **RichardKirk-hub**, a frontend gardener.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛠️ Build small, ship often
+- 🧠 Lifelong learner
+- 🌱 Always learning new things
+- 🎨 Code is poetry
+
+## Tech
+
+`gRPC` `Bun` `Neovim` `MongoDB` `C#`
+
+---
+
+_Open to collaboration._
